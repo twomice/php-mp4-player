@@ -4,6 +4,7 @@
 ## Fork notes:
 - Forked from: https://github.com/BunyaminEfe/php-mp4-player
 - Fork reason: Customizing for my own needs (and editing for English-language code readability).
+- Fork differences: See https://github.com/BunyaminEfe/php-mp4-player/compare/master...twomice:php-mp4-player:master
 - Support status of this fork: Private, unsupported. Suggest to work against source "Forked from" project.
 
 ### ORIGINAL README FOLLOWS BELOW:

@@ -1,3 +1,6 @@
+<?php
+die($_GET['v']);
+?>
 <html>
 <head>
 <link rel="stylesheet" href="efe.css">
