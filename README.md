@@ -1,4 +1,13 @@
 # PHP7 - PHP8 MP4 player auto player fullscreen 
+
+
+## Fork notes:
+- Forked from: https://github.com/BunyaminEfe/php-mp4-player
+- Fork reason: Customizing for my own needs (and editing for English-language code readability).
+- Support status of this fork: Private, unsupported. Suggest to work against source "Forked from" project.
+
+### ORIGINAL README FOLLOWS BELOW:
+
 --------------------------------------------
 # Automatically plays the videolar of the video folder.
 --------------------------------------------
